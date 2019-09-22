@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8BF0E0EE-E47F-4A0F-A312-BBBDA138FBBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Minutes.Android PreferredExecutionTarget="Android.my_device" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minutes/Data/MockDataExtensionMethods.cs">
+    <Files>
+      <File FileName="Minutes/MainPage.xaml.cs" Line="2" Column="14" />
+      <File FileName="Minutes/MainPage.xaml" />
+      <File FileName="Minutes/Data/NoteEntry.cs" />
+      <File FileName="Minutes/EmptyInterface.cs" />
+      <File FileName="Minutes/INoteEntryStore.cs" />
+      <File FileName="Minutes/Data/MemoryEntryStore.cs" />
+      <File FileName="Minutes/Data/MockDataExtensionMethods.cs" Line="25" Column="14" />
+      <File FileName="Minutes/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minutes" expanded="True">
+            <Node name="Minutes" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="MockDataExtensionMethods.cs" selected="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Minutes.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
